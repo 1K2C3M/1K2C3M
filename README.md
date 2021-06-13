@@ -1,10 +1,10 @@
 <h1 align="center">Hello and welcome to my profile! <3</h1>
 
   
-  <h3><b>About Me ~></b></h3>
+<h3><b>About Me ~></b></h3>
   
   
-  <dl>
+<dl>
     
   <dd>
     ☆ I'm currently in High School and a furry thriving to learn more about coding!
@@ -18,10 +18,11 @@
     ☆ Certified in Microsft Word & Powerpoint
   </dd>
     
-  </dl>
+</dl>
 
 
 <h3><b>Socials ~></b></h3>
+  
   
 <dl>
     
@@ -36,5 +37,9 @@
   <dd>
     ☆ <a href="https://www.speedrun.com/user/1K2C3M">Speedruns</a>
   </dd>
+  
+  <dd>
+    ☆ <a href="https://steamcommunity.com/id/1K2C3M">Steam</a>
+  </dd>
     
-  </dl>
+</dl>
