@@ -21,4 +21,20 @@
   </dl>
 
 
-<h3><b>Social Medias ~></b></h3>
+<h3><b>Socials ~></b></h3>
+  
+<dl>
+    
+  <dd>
+    ☆ <a href="https://twitter.com/1K2C3M">Twitter</a>
+  </dd>
+    
+  <dd>
+    ☆ <a href="https://www.youtube.com/channel/UC0McPFdViOEDg8wGlrseLqQ">YouTube</a>
+  </dd>
+    
+  <dd>
+    ☆ <a href="https://www.speedrun.com/user/1K2C3M">Speedruns</a>
+  </dd>
+    
+  </dl>
