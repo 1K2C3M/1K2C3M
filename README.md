@@ -1,7 +1,7 @@
-<h1 align="center">Hello and welcome to my profile! <3</h1>
+<h1 align="center">&#10084; Hello and welcome to my profile! &#10084;</h1>
 
   
-<h3><b>About Me ~></b></h3>
+<h3><b>About Me &#8620;</b></h3>
   
   
 <dl>
@@ -21,7 +21,7 @@
 </dl>
 
 
-<h3><b>Socials &#8605;</b></h3>
+<h3><b>Socials &#8620;</b></h3>
   
   
 <dl>
