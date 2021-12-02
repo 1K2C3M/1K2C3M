@@ -27,19 +27,19 @@
 <dl>
     
   <dd>
-    ☆ <a href="https://twitter.com/1K2C3M" target="_blank">Twitter</a>
+    ☆ <a href="https://twitter.com/1K2C3M" target="_blank" rel="noopener noreferrer">Twitter</a>
   </dd>
     
   <dd>
-    ☆ <a href="https://www.youtube.com/channel/UC0McPFdViOEDg8wGlrseLqQ" target="_blank">YouTube</a>
+    ☆ <a href="https://www.youtube.com/channel/UC0McPFdViOEDg8wGlrseLqQ" target="_blank" rel="noopener noreferrer">YouTube</a>
   </dd>
     
   <dd>
-    ☆ <a href="https://www.speedrun.com/user/1K2C3M" target="_blank">Speedruns</a>
+    ☆ <a href="https://www.speedrun.com/user/1K2C3M" target="_blank" rel="noopener noreferrer">Speedruns</a>
   </dd>
   
   <dd>
-    ☆ <a href="https://steamcommunity.com/id/1K2C3M" target="_blank">Steam</a>
+    ☆ <a href="https://steamcommunity.com/id/1K2C3M" target="_blank" rel="noopener noreferrer">Steam</a>
   </dd>
     
 </dl>
