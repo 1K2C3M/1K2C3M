@@ -21,7 +21,7 @@
 </dl>
 
 
-<h3><b>Socials ~></b></h3>
+<h3><b>Socials &#8605;</b></h3>
   
   
 <dl>
