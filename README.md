@@ -1,4 +1,4 @@
-<h1 align="center">&#10085; Hello and welcome to my profile! &#10085;</h1>
+<h1 align="center">&#10052; Hello and welcome to my profile! &#10052;</h1>
 
   
 <h3><b>About Me &#10547;</b></h3>
