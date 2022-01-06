@@ -15,7 +15,7 @@
   </dd>
     
   <dd>
-    ☆ Certified in Microsft Word & Powerpoint- <i>I dunno why I added this since it isn't that important pfft but shhh</i>
+    ☆ Certified in Microsft Word & Powerpoint & SAS - <i>I dunno why I added this since it isn't that important pfft but shhh</i>
   </dd>
     
 </dl>
