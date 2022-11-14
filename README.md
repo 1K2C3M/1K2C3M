@@ -7,7 +7,7 @@
 <dl>
     
   <dd>
-    ☆ I'm currently in High School and a furry thriving to learn more about coding!
+    ☆ I'm currently a Senior in High School thriving to learn more about coding!
   </dd>
     
   <dd>
