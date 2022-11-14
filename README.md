@@ -11,11 +11,11 @@
   </dd>
     
   <dd>
-    ☆ I currently know serveal languages such as Java, Python, and C#. Additionally, I know how to do HTML as well!
+    ☆ I currently know several languages such as Java, Python, and C#. Additionally, I know how to do HTML as well!
   </dd>
     
   <dd>
-    ☆ Certified in Microsft Word, Microsoft Powerpoint & SAS Base Programming
+    ☆ Certified in Microsoft Word, Microsoft Powerpoint & SAS Base Programming
   </dd>
     
 </dl>
