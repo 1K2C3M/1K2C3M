@@ -7,11 +7,11 @@
 <dl>
     
   <dd>
-    ☆ I currently know several languages such as Java, Python, and C#. Additionally, I know how to do HTML as well!
+    ☆ I currently know several languages such as Java, Python, and C++. Additionally, I know how to do HTML as well!
   </dd>
     
   <dd>
-    ☆ Certified in Microsoft Word, Microsoft Powerpoint, SAS Base Programming & Dreamweaver
+    ☆ Certified in Microsoft Word, Microsoft Powerpoint, SAS Base Programming & Dreamweaver.
   </dd>
     
 </dl>
